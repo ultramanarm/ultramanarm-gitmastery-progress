@@ -1,27 +1,18 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786907556.101702,
+    "completed_at": 1786907557.357476,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1786451844.371621,
     "completed_at": 1786451845.868579,
     "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786552367.709807,
-    "completed_at": 1786552368.935224,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1786552464.03063,
-    "completed_at": 1786552465.292289,
-    "comments": [
-      "You have successfully undone the init operation!"
-    ],
     "status": "Completed"
   },
   {
@@ -43,12 +34,30 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786907556.101702,
-    "completed_at": 1786907557.357476,
+    "exercise_name": "under-control",
+    "started_at": 1786552367.709807,
+    "completed_at": 1786552368.935224,
     "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786552464.03063,
+    "completed_at": 1786552465.292289,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786908966.78403,
+    "completed_at": 1786908969.718293,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
   }
 ]
