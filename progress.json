@@ -224,5 +224,14 @@
       "\"v1.0\" should be an annotated tag, not a lightweight tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786949070.490008,
+    "completed_at": 1786949073.653727,
+    "comments": [
+      "\"v1.0\" message must be exactly \"first full duty roster\"."
+    ],
+    "status": "Incomplete"
   }
 ]
