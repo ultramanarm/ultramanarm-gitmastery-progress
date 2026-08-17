@@ -206,5 +206,14 @@
       "\"first-pilot\" should point to the first commit."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786948939.136036,
+    "completed_at": 1786948942.26157,
+    "comments": [
+      "\"v1.0\" should point to the commit that updates March duty roster."
+    ],
+    "status": "Incomplete"
   }
 ]
