@@ -215,5 +215,14 @@
       "\"v1.0\" should point to the commit that updates March duty roster."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786949020.107833,
+    "completed_at": 1786949023.671437,
+    "comments": [
+      "\"v1.0\" should be an annotated tag, not a lightweight tag."
+    ],
+    "status": "Incomplete"
   }
 ]
